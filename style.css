@@ -58,7 +58,7 @@
         hr{
             outline: 7px double #213d32;
         }
-        textarea {
+        textarea, input {
         	background-color: #77B494;
         	border-radius: 100px;
         }
