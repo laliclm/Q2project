@@ -1,0 +1,61 @@
+
+        body{
+        	background-color: #346943;
+        	          background-image: url("https://res.cloudinary.com/gimmersta-wallpaper/image/upload/c_fill,f_auto,fl_progressive,q_auto,w_576,h_840/v1633091459/articles/709-78_product.jpg");
+            font-family: 'Comfortaa', cursive;
+            padding:  25px;
+        }
+        img{
+        	height: 200px;
+        	width: 200px;
+        	margin-left: auto;
+        	margin-right: auto;
+        	padding: 10px;
+        	border: 2px solid white;
+        }
+        h1{
+        	font-family: 'Comfortaa', bold;
+            font-size: 20pt;
+            text-align: center;
+            margin-top: 25px;
+            margin-bottom: 25px;
+            color: #ffffff;
+            border: 2px double #ffffff;
+        }
+        
+        table{
+        	text-align: center;
+            background-color: #ffffff;
+            background-image: url("https://images.unsplash.com/photo-1568036193587-84226a9c5a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3RhcmJ1Y2tzfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+            border: 4px outset #23574D;
+            border-radius: 35px;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 50px;
+            width: 75%;
+            height: 75%;
+        }
+        tr,th,td{
+            color: #0C271D;
+            border: 4px double #213d32;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: #346943;
+            
+        }
+        button{
+        	border: 5px inset #37775E;
+        	border-radius: 100px;
+        	display: inline-black;
+        	padding: 4px;
+        	color: #37775E;
+        	background-color: #77B494;
+        	text-align: center;
+        	cursor: pointer;
+        	width: 100%;
+            font-size: 15px;
+        }
+        hr{
+            outline: 7px double #213d32;
+        }
+
